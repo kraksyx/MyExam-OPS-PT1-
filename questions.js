@@ -230,14 +230,14 @@ const questions = [
     "correct": 2
   },
   {
-    "question": "ICAO Annex 6:",
+    "question": "ICAO Annex 6: the flight preparation stage for a turbo-propeller aircraft, the landing distance at an alternate aerodrome shall be less than the available landing distance multiplied by a factor of:",
     "options": [
-      "the flight preparation stage for a turbo-propeller aircraft, the landing distance at an alternate aerodrome shall be less than the available landing distance multiplied by a factor of:",
+      "0.7",
       "0.6",
       "0.5",
       "0.8"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "question": "Above what altitude is it mandatory for one of the flight deck crew members to wear an oxygen mask?",
@@ -268,15 +268,5 @@ const questions = [
       "0.8"
     ],
     "correct": 0
-  },
-  {
-    "question": "With regard to the management system an operator is required to establish, implement and maintain, such system shall correspond to the:",
-    "options": [
-      "complexity of operation and size of the company.",
-      "annual income level of the company.",
-      "annual profit/loss and the number of passengers carried.",
-      "complexity of the aircraft used and associated risks."
-    ],
-    "correct": 1
   }
 ];
